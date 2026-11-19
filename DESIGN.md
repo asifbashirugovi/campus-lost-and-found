@@ -91,9 +91,3 @@ The report groups items under building headings and includes the item name and d
 3. Try a blank name, an impossible date, an empty list, and editing a record already deleted from a second window. Check the messages in Tkinter.
 4. Stop Flask and try an action. Restart Flask and refresh successfully from the same Tkinter window.
 5. Run the report and verify its grouping and file contents. Record setup commands, course topic locations, and test results in the README.
-
-## Header illustration credit
-
-The header illustration was generated with the built-in OpenAI ImageGen tool. The prompt used the supplied box image as a visual reference for the subject and palette.
-
-> Use case: stylized-concept. Create one original transparency-cutout illustration for the upper-right corner of a university lost-and-found desktop app. Show an open warm apricot cardboard box, a generic midnight-indigo smartphone angled slightly left, lavender-and-ivory over-ear headphones, and a small cream luggage tag displaying one indigo question mark. Render it as a refined soft 3D clay illustration with crisp readable silhouettes, soft studio light, subtle purple accents, and a low-profile wide composition. Center the complete box and objects with clear breathing room on every edge. The background is genuinely transparent, including the gaps around handles and headphones. No logos, people, floating confetti, surrounding panel, or other text.

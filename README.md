@@ -101,6 +101,4 @@ The design describes the app and report and credits the university’s campus ma
 
 The PowerPoint deck contains the live demo sequence, the Add Item walkthrough, and the report example. [Demo slides](Campus_Lost_and_Found_Demo.pptx)
 
-OpenAI Codex assisted with the design, implementation, verification, and presentation materials.
-
-The header illustration was created with OpenAI ImageGen. [Image asset](assets/lost-item-illustration.png)
+AI tools assisted with the design, implementation, testing, slides, and creation of the header illustration. [Header illustration](assets/lost-item-illustration.png)
