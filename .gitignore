@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+found_items.sqlite3
+found_items.sqlite3-*
+found_items_report.txt
+Project_*.zip
+.DS_Store
